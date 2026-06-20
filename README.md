@@ -64,9 +64,4 @@ Good guess! 'p' is in the word.
  
 Built as part of the CodeAlpha Internship Program.
  
-## 📌 Internship Submission
- 
-- ✅ Source code uploaded to GitHub
-- ✅ Project completed within the assigned time frame
-- ⬜ LinkedIn post (tagging @CodeAlpha) with video explanation
-- ⬜ Submission form completed
+
